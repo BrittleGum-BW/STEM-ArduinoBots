@@ -9,7 +9,7 @@ Modular, open-source bipedal robots designed for education, play and accessibili
 - `Build-Notes/`: Build Notes on the use of sensors, motors, encoders, calibration, and so on.
 - `Blockly/`: Custom Blockly interface adapted from OTTOBlockly
   
-* **The ZIP bundles include STL files, parts list, and Arduino code**
+Note: The ZIP bundles include STL files, parts list, and Arduino code
 
 ## Philosophy
 
