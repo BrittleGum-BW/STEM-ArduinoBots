@@ -27,6 +27,10 @@ This project prioritizes modular design and accessibility for learners, educator
 
 For tutorials, updates, and philosophy: [ardubots-at-bgbw.blogspot.com](http://ardubots-at-bgbw.blogspot.com)
 
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+
 ---
 
 > ⚙️ Note: This repository is evolving. QB is ready; OLI and Blockly modules will be added as they’re finalized. Stay tuned!
