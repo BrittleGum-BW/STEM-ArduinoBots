@@ -17,7 +17,7 @@ This project prioritizes modular design and accessibility for learners, educator
 
 ## Getting Started
 
-1. Download the ZIP for your robot (`QB_v1.0.zip`, `OLI_v1.0.zip`)
+1. Download the ZIP for your robot (`QB_Vx.x yyyy-mm-dd.zip`, `Vx.x yyyy-mm-dd.zip`)
 2. Unpack and follow the internal README or manifest
 3. Review any relevant material in `Build-Notes/`
 4. Upload `.ino` files via the Arduino IDE
