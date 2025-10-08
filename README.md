@@ -26,3 +26,7 @@ This project prioritizes modular design and accessibility for learners, educator
 ## Blog
 
 For tutorials, updates, and philosophy: [ardubots-at-bgbw.blogspot.com](http://ardubots-at-bgbw.blogspot.com)
+
+---
+
+> ⚙️ Note: This repository is evolving. QB is ready; OLI and Blockly modules will be added as they’re finalized. Stay tuned!
